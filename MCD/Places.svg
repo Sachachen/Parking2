@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="295" height="374" viewBox="0 0 295 374" xmlns="http://www.w3.org/2000/svg">
+<rect id="frame" x="0" y="0" width="295" height="374" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Association réserver -->
+<g class="page_0_ikzQqHol diagram_page" visibility="visible">
+	<line x1="144" y1="60" x2="253" y2="60" stroke="#e08214" stroke-width="2"/>
+	<text x="193" y="77" fill="#542788" font-family="Verdana" font-size="12">1,1</text>
+	<line x1="253" y1="221" x2="253" y2="60" stroke="#e08214" stroke-width="2"/>
+	<text x="258" y="171" fill="#542788" font-family="Verdana" font-size="12">0,N</text>
+	<g>
+		<path d="M272 35 a14 14 90 0 1 14 14 V60 h-66 V49 a14 14 90 0 1 14 -14" fill="#fdb863" stroke="#fdb863" stroke-width="0"/>
+		<path d="M286 60 v11 a14 14 90 0 1 -14 14 H234 a14 14 90 0 1 -14 -14 V60 H66" fill="#fee0b6" stroke="#fee0b6" stroke-width="0"/>
+		<rect x="220" y="35" width="66" height="50" fill="none" rx="14" stroke="#e08214" stroke-width="2"/>
+		<line x1="220" y1="60" x2="286" y2="60" stroke="#e08214" stroke-width="1"/>
+		<text x="228" y="52.75" fill="#000" font-family="Verdana" font-size="12">réserver</text>
+	</g>
+</g>
+
+<!-- Association posseder -->
+<g class="page_0_ikzQqHol diagram_page" visibility="visible">
+	<line x1="43" y1="221" x2="144" y2="221" stroke="#e08214" stroke-width="2"/>
+	<text x="82" y="238" fill="#542788" font-family="Verdana" font-size="12">0,N</text>
+	<line x1="144" y1="60" x2="144" y2="221" stroke="#e08214" stroke-width="2"/>
+	<text x="149" y="128" fill="#542788" font-family="Verdana" font-size="12">1,1</text>
+	<g>
+		<path d="M165 196 a14 14 90 0 1 14 14 V221 h-70 V210 a14 14 90 0 1 14 -14" fill="#fdb863" stroke="#fdb863" stroke-width="0"/>
+		<path d="M179 221 v11 a14 14 90 0 1 -14 14 H123 a14 14 90 0 1 -14 -14 V221 H70" fill="#fee0b6" stroke="#fee0b6" stroke-width="0"/>
+		<rect x="109" y="196" width="70" height="50" fill="none" rx="14" stroke="#e08214" stroke-width="2"/>
+		<line x1="109" y1="221" x2="179" y2="221" stroke="#e08214" stroke-width="1"/>
+		<text x="117" y="213.75" fill="#000" font-family="Verdana" font-size="12">posseder</text>
+	</g>
+</g>
+
+<!-- Entity Reservations -->
+<g class="page_0_ikzQqHol diagram_page" visibility="visible">
+	<g>
+		<rect x="100" y="9" width="88" height="25" fill="#b2abd2" stroke="#b2abd2" stroke-width="0" opacity="1"/>
+		<rect x="100" y="34" width="88" height="77" fill="#d8daeb" stroke="#d8daeb" stroke-width="0" opacity="1"/>
+		<rect x="100" y="9" width="88" height="102" fill="none" stroke="#8073ac" stroke-width="2" opacity="1"/>
+		<line x1="100" y1="34" x2="188" y2="34" stroke="#8073ac" stroke-width="1"/>
+	</g>
+	<text x="105" y="26.75" fill="#000" font-family="Verdana" font-size="12">Reservations</text>
+	<text x="105" y="51.8" fill="#000" font-family="Verdana" font-size="12">id</text>
+	<line x1="105" y1="54" x2="117" y2="54" stroke="#000" stroke-width="1"/>
+	<text x="105" y="68.8" fill="#000" font-family="Verdana" font-size="12">date_début</text>
+	<text x="105" y="85.8" fill="#000" font-family="Verdana" font-size="12">date_fin</text>
+	<text x="105" y="102.8" fill="#000" font-family="Verdana" font-size="12">expired</text>
+</g>
+
+<!-- Entity Users -->
+<g class="page_0_ikzQqHol diagram_page" visibility="visible">
+	<g>
+		<rect x="9" y="136" width="68" height="25" fill="#b2abd2" stroke="#b2abd2" stroke-width="0" opacity="1"/>
+		<rect x="9" y="161" width="68" height="145" fill="#d8daeb" stroke="#d8daeb" stroke-width="0" opacity="1"/>
+		<rect x="9" y="136" width="68" height="170" fill="none" stroke="#8073ac" stroke-width="2" opacity="1"/>
+		<line x1="9" y1="161" x2="77" y2="161" stroke="#8073ac" stroke-width="1"/>
+	</g>
+	<text x="26" y="153.75" fill="#000" font-family="Verdana" font-size="12">Users</text>
+	<text x="14" y="178.8" fill="#000" font-family="Verdana" font-size="12">id</text>
+	<line x1="14" y1="181" x2="26" y2="181" stroke="#000" stroke-width="1"/>
+	<text x="14" y="195.8" fill="#000" font-family="Verdana" font-size="12">nom</text>
+	<text x="14" y="212.8" fill="#000" font-family="Verdana" font-size="12">prenom</text>
+	<text x="14" y="229.8" fill="#000" font-family="Verdana" font-size="12">email</text>
+	<text x="14" y="246.8" fill="#000" font-family="Verdana" font-size="12">password</text>
+	<text x="14" y="263.8" fill="#000" font-family="Verdana" font-size="12">isadmin</text>
+	<text x="14" y="280.8" fill="#000" font-family="Verdana" font-size="12">isverified</text>
+	<text x="14" y="297.8" fill="#000" font-family="Verdana" font-size="12">isactive</text>
+</g>
+
+<!-- Entity Places -->
+<g class="page_0_ikzQqHol diagram_page" visibility="visible">
+	<g>
+		<rect x="229" y="179" width="48" height="25" fill="#b2abd2" stroke="#b2abd2" stroke-width="0" opacity="1"/>
+		<rect x="229" y="204" width="48" height="59" fill="#d8daeb" stroke="#d8daeb" stroke-width="0" opacity="1"/>
+		<rect x="229" y="179" width="48" height="84" fill="none" stroke="#8073ac" stroke-width="2" opacity="1"/>
+		<line x1="229" y1="204" x2="277" y2="204" stroke="#8073ac" stroke-width="1"/>
+	</g>
+	<text x="234" y="196.75" fill="#000" font-family="Verdana" font-size="12">Places</text>
+	<text x="234" y="221.8" fill="#000" font-family="Verdana" font-size="12">id</text>
+	<line x1="234" y1="224" x2="246" y2="224" stroke="#000" stroke-width="1"/>
+	<text x="234" y="238.8" fill="#000" font-family="Verdana" font-size="12">libelle</text>
+	<text x="234" y="255.8" fill="#000" font-family="Verdana" font-size="12">libre</text>
+</g>
+
+<!-- Entity Reglage -->
+<g class="page_0_ikzQqHol diagram_page" visibility="visible">
+	<g>
+		<rect x="114" y="297" width="60" height="25" fill="#b2abd2" stroke="#b2abd2" stroke-width="0" opacity="1"/>
+		<rect x="114" y="322" width="60" height="43" fill="#d8daeb" stroke="#d8daeb" stroke-width="0" opacity="1"/>
+		<rect x="114" y="297" width="60" height="68" fill="none" stroke="#8073ac" stroke-width="2" opacity="1"/>
+		<line x1="114" y1="322" x2="174" y2="322" stroke="#8073ac" stroke-width="1"/>
+	</g>
+	<text x="120" y="314.75" fill="#000" font-family="Verdana" font-size="12">Reglage</text>
+	<text x="119" y="339.8" fill="#000" font-family="Verdana" font-size="12">id</text>
+	<line x1="119" y1="342" x2="131" y2="342" stroke="#000" stroke-width="1"/>
+	<text x="119" y="356.8" fill="#000" font-family="Verdana" font-size="12">durée</text>
+</g>
+</svg>

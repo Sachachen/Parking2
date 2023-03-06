@@ -1,0 +1,9 @@
+:
+Reservations: id, date_début, date_fin, expired
+réserver, 11 Reservations, 0N Places:
+
+Users: id, nom, prenom, email, password, isadmin, isverified, isactive
+posseder, 0N Users, 11 Reservations:
+Places: id, libelle, libre
+
+Reglage: id, durée

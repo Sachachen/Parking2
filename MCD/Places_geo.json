@@ -1,0 +1,27 @@
+{
+  "width": 295,
+  "height": 374,
+  "cx": [
+    [ "Reservations", 144 ],
+    [ "réserver", 253 ],
+    [ "Users", 43 ],
+    [ "posseder", 144 ],
+    [ "Places", 253 ],
+    [ "Reglage", 144 ]
+  ],
+  "cy": [
+    [ "Reservations", 60 ],
+    [ "réserver", 60 ],
+    [ "Users", 221 ],
+    [ "posseder", 221 ],
+    [ "Places", 221 ],
+    [ "Reglage", 331 ]
+  ],
+  "shift": [
+    [ "réserver,Reservations,0", 0 ],
+    [ "réserver,Places,0", 0 ],
+    [ "posseder,Users,0", 0 ],
+    [ "posseder,Reservations,0", 0 ]
+  ],
+  "ratio": []
+}
