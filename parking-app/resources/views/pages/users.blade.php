@@ -1,10 +1,14 @@
 <x-app-layout>
 <h1>HOUSAAM LE BOSS</h1>
     <div class="flex flex-row">
+<<<<<<< Updated upstream
         <div class="template">
             
                 <!-- component -->
                 <aside class="flex flex-col w-64 h-screen px-5 py-8 overflow-y-auto bg-white border-r rtl:border-r-0 rtl:border-l dark:bg-gray-900 dark:border-gray-700">
+=======
+        <h1>namakan magass</h1>
+>>>>>>> Stashed changes
 
                     <div class="flex flex-col justify-between flex-1 mt-6">
                         <nav class="-mx-3 space-y-6 ">
